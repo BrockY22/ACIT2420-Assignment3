@@ -160,3 +160,9 @@ and run the curl command to get your sample HTML instead of the default nginx pa
 ```bash
 curl your-ip-address
 ```
+replace your-ip-address with the ip address of your ssh, you can find it with:
+```bash
+ip addr
+```
+
+Congratulation, you have succesfully created a new regular user and installed Nginx!
