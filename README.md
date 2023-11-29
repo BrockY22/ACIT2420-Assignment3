@@ -18,10 +18,13 @@ This command will add the new user to the sudo group which grant them administra
 
 # Step 3: add a password for the new user.
 ```bash
-passwd brock
+passwd <newuser>
 New password: new-password
 Retype new password: new-password
 ```
+replace <newuser> with your new user.
+replace new-password with password of your choice.
+
 # Step 4: Prevent the root user from connecting to the server via SSH.
 
 Switch to the new user you just created:
