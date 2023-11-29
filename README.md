@@ -1,4 +1,4 @@
-## Welcome to my tutorial to create a regular user and install nginx.
+# Welcome to my tutorial to create a regular user and install nginx.
 ## Prerequisite: You have just started from a Fresh Debian 12 server on digitalocean.
 
 # Step 1: Create a new regular user
